@@ -1,0 +1,28 @@
+.navbar {
+    background-color: rgb(219, 30, 210);
+}
+
+.quem-somos {
+        color: rgb(0, 0, 0);
+}
+
+
+.margin{
+    padding-top:  50px;
+    padding-bottom: 50px;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.parceiros {
+    padding-bottom: 50px;
+    background-color:rgb(219, 30, 210);
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
